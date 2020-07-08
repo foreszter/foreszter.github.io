@@ -1,0 +1,14 @@
+#colorDiv {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(85, 107, 47, 0.5);
+
+}
+
+html {
+    background-color: rosybrown;
+    background-image: url(/img/P1180425.JPG);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
